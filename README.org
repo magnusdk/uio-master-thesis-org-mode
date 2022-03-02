@@ -1,0 +1,7 @@
+* Org-mode UiO Master Thesis template
+Copy the contents of =template= into your own project and start writing.
+
+See the comment in the top of =template/thesis.org= for how to make it work. An example of the export result can be seen in =template.pdf=.
+
+Good luck.
+
